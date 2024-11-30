@@ -33,7 +33,7 @@ from collections import Counter
 from groq import Groq
 from rank_bm25 import BM25Okapi
 
-os.environ['GROQ_API_KEY'] = "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"
+os.environ['GROQ_API_KEY'] = "Your Groq API Key"
 
 # Set directory path
 directory_path = r"full_contract_pdf"
